@@ -1,2 +1,3 @@
 # Web-Dev-Project-1
-Internshala Web Development project-1
+
+Web Development project
